@@ -1,69 +1,69 @@
 
 
 ul {
-list-style: none;
-padding: 0;
-margin: 0;
+    list-style: none;
+    padding: 0;
+    margin: 0;
 }
 
 
 .profile {
-padding-top: 20px;
-max-width: 512px;
-box-shadow: 1px 1px 14px 4px rgba(0, 0, 0, 0.22);
-border-radius: 16px;
-margin-top: 100px;
+    padding-top: 20px;
+    max-width: 512px;
+    box-shadow: 1px 1px 14px 4px rgba(0, 0, 0, 0.22);
+    border-radius: 16px;
+    margin-top: 100px;
 }
 
 .description {
-padding-top: 30px;
+    padding-top: 30px;
 }
 
 .avatar {
-display: block;
-width: auto;
-object-fit: cover;
+    display: block;
+    width: auto;
+    object-fit: cover;
 }
 
 .name {
-font-size: 40px;
-font-weight: 600;
-text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
 
-margin-bottom: 0;
-margin-top: 15px;
+    margin-bottom: 0;
+    margin-top: 15px;
 }
 
 .tag {
-font-size: 26px;
-font-weight: 400;
-text-align: center;
-color: #9f9f9f;
-margin-bottom: 0;
-margin-top: 15px;
+    font-size: 26px;
+    font-weight: 400;
+    text-align: center;
+    color: #9f9f9f;
+    margin-bottom: 0;
+    margin-top: 15px;
 }
 
 .location {
-font-size: 26px;
-font-weight: 400;
-text-align: center;
-color: #9f9f9f;
-margin-top: 15px;
+    font-size: 26px;
+    font-weight: 400;
+    text-align: center;
+    color: #9f9f9f;
+    margin-top: 15px;
 }
 
 .stats > li {
-display: flex;
-flex-direction: column;
-gap: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 
-width: calc(100% / 3);
+    width: calc(100% / 3);
 
-border-top: 1px solid #9f9f9f;
-padding: 15px;
+    border-top: 1px solid #9f9f9f;
+    padding: 15px;
 }
 
 .stats > li:not(:last-child) {
-border-right: 1px solid #9f9f9f;
+    border-right: 1px solid #9f9f9f;
 }
 
 
@@ -71,7 +71,7 @@ border-right: 1px solid #9f9f9f;
     display: flex;
     background-color: #f2f1f1;
     margin-bottom: 0;
-    margin-top: 15pxn;
+    margin-top: 15px;
 
 }
 
