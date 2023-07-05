@@ -16,7 +16,6 @@ export const TransactionHistory = ( {items} ) => {
             {items.map(item => 
             <TransactionRow
             key={item.id}
-            id={item.id}
             type={item.type}
             amount={item.amount}
             currency={item.currency}
